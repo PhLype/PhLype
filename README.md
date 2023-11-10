@@ -5,7 +5,7 @@ const PhLype = {
   nome: "Phelype Wellyngton de Souza Côcco",
   idade: "19",
   area: "Desenvolvimento em Web",
-  linguagens: ["JavaScript", "NodeJS", "ReactJS"]
+  linguagens: ["JavaScript", "Python"]
 }
 ```
 
