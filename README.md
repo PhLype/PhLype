@@ -17,8 +17,9 @@ const Habilidades = {
   Software: ["Microsoft Excel", "Microsoft Word", "Microsoft PowerPoint"]
 }
 ```
-<img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=PhLype&theme=tokyonight" alt="PhLype's Github Stats">
-
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhLype&theme=tokyonight" alt="PhLype's Github Stats">
+</div>
 <!--
 **PhLype/PhLype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
