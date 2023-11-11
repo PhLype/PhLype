@@ -8,7 +8,7 @@ const PhLype = {
 }
 ```
 
-## Mais algumas tecnologias.
+## 
 
 ```js
 const Habilidades = {
