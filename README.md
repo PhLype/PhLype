@@ -4,20 +4,21 @@
 const PhLype = {
   nome: "Phelype Wellyngton de Souza Côcco",
   idade: "19",
-  area: "Desenvolvimento em Web",
-  linguagens: ["JavaScript", "Python"]
+  area: "Desenvolvimento em Web"
 }
 ```
 
 ## Mais algumas tecnologias.
 
-- HTML5
-- CSS3
-<hr>
+```js
+const Habilidades = {
+  technologias: ["HTML", "CSS"],
+  linguagens: ["JavaScript", "Python"],
+  Software: ["Microsoft Excel", "Microsoft Word", "Microsoft PowerPoint"]
+}
+```
 
-- Microsoft Excel
-- Microsoft Word
-- Microsoft PowerPoint
+[![PhLype's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhLype)](https://github.com/PhLype/github-readme-stats)
 
 <!--
 **PhLype/PhLype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
