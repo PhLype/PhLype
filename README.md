@@ -12,9 +12,9 @@ const PhLype = {
 
 ```js
 const Habilidades = {
-  technologias: ["HTML", "CSS"],
+  tecnologias: ["HTML", "CSS"],
   linguagens: ["JavaScript", "Python"],
-  Software: ["Microsoft Excel", "Microsoft Word", "Microsoft PowerPoint"]
+  softwares: ["Microsoft Excel", "Microsoft Word", "Microsoft PowerPoint"]
 }
 ```
 <div style="display: flex; align-items: center; justify-content: center;">
