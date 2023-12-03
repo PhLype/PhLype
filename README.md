@@ -1,4 +1,4 @@
-### Olá, mundo 👋
+<h1>Olá, mundo 👋</h1>
 
 ```js
 const PhLype = {
@@ -14,23 +14,10 @@ const PhLype = {
 const Habilidades = {
   tecnologias: ["HTML", "CSS"],
   linguagens: ["JavaScript", "Python"],
-  softwares: ["Microsoft Excel", "Microsoft Word", "Microsoft PowerPoint"]
+  software: ["Visual Studio Code"],
+  cursos: ["Microsoft Excel", "Microsoft Word", "Microsoft PowerPoint"]
 }
 ```
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=PhLype&theme=tokyonight" alt="PhLype's Github Stats">
 </div>
-<!--
-**PhLype/PhLype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
