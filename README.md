@@ -14,8 +14,7 @@ const PhLype = {
 const Habilidades = {
   tecnologias: ["HTML", "CSS"],
   linguagens: ["JavaScript", "Python"],
-  software: ["Visual Studio Code"],
-  cursos: ["Microsoft Excel", "Microsoft Word", "Microsoft PowerPoint"]
+  software: ["Visual Studio Code"]
 }
 ```
 <div style="display: flex; align-items: center; justify-content: center;">
