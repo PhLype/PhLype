@@ -3,7 +3,7 @@
 ```js
 const PhLype = {
   nome: "Phelype Côcco",
-  idade: "19",
+  idade: "20",
   area: "Desenvolvimento em Web"
 }
 ```
