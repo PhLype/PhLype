@@ -2,7 +2,7 @@
 
 ```js
 const PhLype = {
-  nome: "Phelype Wellyngton de Souza Côcco",
+  nome: "Phelype Côcco",
   idade: "19",
   area: "Desenvolvimento em Web"
 }
